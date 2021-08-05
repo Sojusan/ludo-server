@@ -13,3 +13,6 @@ ludo-server-test-*
 *.o
 *.obj
 *.lst
+
+.history
+.vscode
