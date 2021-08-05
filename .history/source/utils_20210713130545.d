@@ -1,3 +1,0 @@
-module utils;
-
-import colorize;
