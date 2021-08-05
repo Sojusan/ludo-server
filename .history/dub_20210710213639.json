@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"Rafał Grzegorczyk"
+	],
+	"copyright": "Copyright © 2021, Rafał Grzegorczyk",
+	"description": "Ludo Game Server application",
+	"license": "MIT",
+	"name": "ludo-server"
+}

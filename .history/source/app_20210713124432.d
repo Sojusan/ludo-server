@@ -1,0 +1,17 @@
+import std.datetime;
+import std.stdio;
+import colorize;
+
+
+///
+void logMessage(string message) {
+	writeln("[" ~ Clock.currTime().toString ~ "] " ~ message);
+	cwriteln("Test".color(fg.green));
+	cwriteln("Test".color(fg.green));
+}
+
+
+void main()
+{
+	logMessage("Test message.");
+}
